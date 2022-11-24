@@ -1,5 +1,5 @@
 
-[MasterHead](https://www.interviewbit.com/blog/wp-content/uploads/2021/08/web-developer-skills.jpg)
+
 <h1 align="center">Hi 👋, I'm Ayush chalise</h1>
 <h3 align="center">A passionate Full stack web developer/ front-end developer</h3>
 
