@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayushchalise12" target="blank"><img src="https://img.shields.io/twitter/follow/ayushchalise12?logo=twitter&style=for-the-badge" alt="ayushchalise12" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **web**
 
