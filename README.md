@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **web**
 
-- 📫 How to reach me **ayushchalise12@gmail.com**
+- 📫Want to hire me ? Dont think more just reach me **ayushchalise12@gmail.com**
 
 - ⚡ Fun fact **I think I am crazy for coding**
 
