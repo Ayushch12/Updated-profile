@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/ayushchalise12" target="blank"><img src="https://img.shields.io/twitter/follow/ayushchalise12?logo=twitter&style=for-the-badge" alt="ayushchalise12" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **web**
+- 💬 Ask me about **Web application**
 
-- 📫Want to hire me ? Dont think more just reach me **ayushchalise12@gmail.com**
+- 📫Want to hire me ?  Reach me at  **ayushchalise12@gmail.com**
 
 - ⚡ Fun fact **I think I am crazy for coding**
 
